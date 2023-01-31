@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1032657666008",
+    "firebase_url": "https://firebasspractice-8f050-default-rtdb.firebaseio.com",
+    "project_id": "firebasspractice-8f050",
+    "storage_bucket": "firebasspractice-8f050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032657666008:android:afda467f66910510e1bcad",
+        "android_client_info": {
+          "package_name": "com.kaushal.firebasspractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032657666008-3dchebqk34b3j1vtbs5o22nb0fl8si1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX5myVwt6wUwa3w7zMxBko4u8n6EsyWmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032657666008-3dchebqk34b3j1vtbs5o22nb0fl8si1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

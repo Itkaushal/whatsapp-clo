@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227426600885",
+    "project_id": "manualfirebase-653a1",
+    "storage_bucket": "manualfirebase-653a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227426600885:android:1f0e7cd19ca57eea1ebbfc",
+        "android_client_info": {
+          "package_name": "com.kaushal.firebasspractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227426600885-32kenq66qdebqbcdkp5bjk0sbcjl90so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDPS2Yjr7A0YZ_tmcaapowSZQLP9-ibFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227426600885-32kenq66qdebqbcdkp5bjk0sbcjl90so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
